@@ -1,5 +1,5 @@
 # Analytics-Capstone-Project
-This project was developed as part of the BSAN 780 course and focuses on building a music recommender system using a provided music database. Our team, The Treble Makers, implemented collaborative filtering, content-based filtering, and a hybrid model that combines both techniques to enhance recommendation accuracy. We used Python and SQL.
+This project was developed as part of the course and focuses on building a music recommender system using a provided music database. Our team, The Treble Makers, implemented collaborative filtering, content-based filtering, and a hybrid model that combines both techniques to enhance recommendation accuracy. We used Python and SQL.
 
 The project includes:
 
